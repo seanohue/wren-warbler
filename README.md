@@ -1,4 +1,4 @@
-##Usage:
+## Usage:
 
 Clone or copy the warbler file and license into your codebase.
 Does wren have a package manager yet? Is that a thing?
@@ -16,7 +16,7 @@ test.describe("Everything is sane") {
 }
 
 test.describe("The world is upside down") {
-  test.assert(true, true, )
+  test.assert(true, true)
 }
 
 ```
